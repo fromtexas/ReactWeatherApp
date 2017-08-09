@@ -1,0 +1,19 @@
+.reveal{
+    display: block !important;
+    position: absolute !important;
+    left: 50% !important;
+    transform: translateX(-50%) translateY(-50%) !important;
+    top:50% !important;
+    
+}
+.main {
+   padding-top: 10vh;
+   
+}
+.location {
+    color: #14679E;
+    text-transform: uppercase;
+}
+.temp {
+    color: #14679E;
+}
